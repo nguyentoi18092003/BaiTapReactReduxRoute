@@ -1,0 +1,28 @@
+
+.header {
+    background:orange;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header .header_logo{
+    padding-top:15px;
+    padding-bottom:10px;
+    padding-left:10px;
+    font-size:24px;
+    font-weight: 600;
+}
+
+.main{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+   
+    font-size: 18px;
+}
+.footer{
+    background:orange;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:10px;
+}
